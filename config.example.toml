@@ -1,0 +1,22 @@
+# Example configuration for dontbrowse.
+# Copy to ~/.config/dontbrowse/config.toml and edit.
+#
+# theme = "auto"                 # auto | dark | light
+# yt_dlp_path = "yt-dlp"
+# mpv_path = "mpv"
+# cookies_from_browser = "firefox"
+# cookies_txt = "~/.config/dontbrowse/cookies.txt"
+#
+# [reader]
+# width = 92
+# images = true
+# send_cookies_to_images = "same-site"
+# user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+#
+# [youtube]
+# limit = 40
+# home = "auto"                  # auto | trending | recommended
+# discover_query = "trending videos"
+#
+# [ui]
+# animations = true
